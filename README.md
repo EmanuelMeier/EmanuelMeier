@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-meier-martins-4203191a6/)
 
 ![Meier GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelMeier&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelMeier)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
